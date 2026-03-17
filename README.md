@@ -1,4 +1,4 @@
-# Hi, I'm Jason (Hsiang) Lee 👋
+# Hi, I'm Jason (Hsiang) Lee 
 
 B.S. in Computer Science @ NYCU · Presidential Award (Fall 2023)  
 Interested in EDA / APR, ML for physical design optimization, and systems engineering
